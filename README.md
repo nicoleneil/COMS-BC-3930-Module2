@@ -48,7 +48,8 @@ Process:
   a. Write a function to read serial data from the ESP32. 
   b. Write a function to perform the game logic where Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
 7. Close the Arduino app and run the Python program. Perform debugging and make any adjustments to your code as necessary.  
-  INSERT PIC OF ESP32 WITH WIRING CONNETCTED TO LAPTOP 
+<img width="645" alt="Screenshot 2024-04-02 at 5 10 38 PM" src="https://github.com/nicoleneil/COMS-BC-3930-Module2/assets/158202481/a3642072-7bd3-424c-ab3a-d445a1f11f58">
+
 8. In pencil sketch the shape of the game controller on cardboard and cut it out using the scissors. Place the cutout on another piece of cardboard, trace the outline, and cut out the second game controller outline. These are the top and bottom of the device enclosure.
 9. On one of the game controller outlines (this will be the top piece) trace the outline of the potentiometer and buttons in appropriate spots. Cut out these circles using an X-Acto knife. Insert the buttons and potentiometer into their respective holes and secure the buttons with their screws.
 ![IMG_0237](https://github.com/nicoleneil/COMS-BC-3930-Module2/assets/158202481/cee13796-6148-429c-8f30-cfa5c1318d16)
